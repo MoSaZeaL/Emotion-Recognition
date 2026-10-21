@@ -27,7 +27,7 @@ A modular, local webcam application for detecting faces and estimating visible f
 FacialExpressionApp/
 ├── models/
 │   ├── face_detection_yunet.onnx
-│   ├──hand_landmarker.task
+│   ├── hand_landmarker.task
 │   └── expression_recognition.onnx
 ├── src/
 │   ├── camera.py
