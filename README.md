@@ -1,4 +1,4 @@
-# Facial Expression Recognition
+# Facial Expression Recognition by MoSaZeaL
 
 A modular, local webcam application for detecting faces and estimating visible facial-expression categories using Python 3.14.8, OpenCV, and pretrained ONNX models.
 
